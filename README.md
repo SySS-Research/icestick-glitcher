@@ -30,9 +30,9 @@ at REcon Brussles 2017.
 
 The following two images show a working test setup for the iCEstick Glitcher.
 
-![iCEstick Glitcher test setup](TODO/images/icestick_glitcher_test_setup.jpg)
+![iCEstick Glitcher test setup](/images/icestick_glitcher_test_setup.jpg)
 
-![MAX4619 wiring using iCEstick Glitcher](TODO/image/glitcher_max4619_wiring.jpg)
+![MAX4619 wiring using iCEstick Glitcher](/images/glitcher_max4619_wiring.jpg)
 
 ## Demo
 

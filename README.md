@@ -3,12 +3,12 @@
 The iCEstick Glitcher is a simple voltage glitcher for a Lattice iCEstick Evaluation Kit.
 
 This glitcher is based on and inspired by glitcher implementations by
-Dmitry Nedospasov (@nedos) from [Toothless Consulting](https://toothless.co/)
-and Grazfather (@Grazfather).
+Dmitry Nedospasov ([@nedos](https://twitter.com/nedos)) from [Toothless Consulting](https://toothless.co/)
+and Grazfather ([@Grazfather](https://twitter.com/Grazfather)).
 
 This glitcher implementation demonstrates how the code read protection (CRP) of
 NXP LPC-family microcontrollers can be bypassed as presented by Chris
-Gerlinsky (@akacastor) in his talk [Breaking Code Read Protection on the NXP LPC-family Microcontrollers](Breaking Code Read Protection on the NXP LPC-family Microcontrollers)
+Gerlinsky (@akacastor) in his talk [Breaking Code Read Protection on the NXP LPC-family Microcontrollers](https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf)
 at REcon Brussles 2017.
 
 ## Hardware Requirements

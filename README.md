@@ -38,7 +38,7 @@ The following two images show a working test setup for the iCEstick Glitcher.
 
 This demo video exemplarily shows how the code read protection (CRP) of an [NXP LPC1343 chip](https://www.nxp.com/docs/en/user-guide/UM10375.pdf) can be bypassed by using a voltage glitching attack in order to dump the flash memory containing the firmware.
 
-[![SySS PoC Video: Voltage Glitching Attack using SySS iCEstick Glitcher](/images/icestick_glitcher_poc_video.jpg)](http://https://www.youtube.com/watch?v=FVUhVewFmxw "Voltage Glitching Attack using SySS iCEstick Glitcher")
+[![SySS PoC Video: Voltage Glitching Attack using SySS iCEstick Glitcher](/images/icestick_glitcher_poc_video.jpg)](https://www.youtube.com/watch?v=FVUhVewFmxw "Voltage Glitching Attack using SySS iCEstick Glitcher")
 
 ## References
 
